@@ -2,5 +2,5 @@
 fastapi
 uvicorn
 fer
-opencv-python-headless
+opencv-contrib-python-headless
 numpy
